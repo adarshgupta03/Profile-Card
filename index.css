@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   color: #000;
-  font-family: "Croissant One", cursive;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contain {
@@ -43,6 +43,10 @@ img {
   margin-top: 35px;
 
   text-align: center;
+}
+p {
+  font-size: 0.81rem;
+  font-weight: 600;
 }
 i {
   font-size: 30px;
