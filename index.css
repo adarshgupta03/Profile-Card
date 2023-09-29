@@ -37,7 +37,7 @@ img {
   width: 100%;
   height: 160px;
   border-radius: 50%;
-  border: none;
+  border: 4px solid white;
 }
 .icon {
   margin-top: 35px;
